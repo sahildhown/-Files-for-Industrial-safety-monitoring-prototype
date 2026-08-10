@@ -1,0 +1,2 @@
+# -Files-for-Industrial-safety-monitoring-prototype
+This 3-channel prototype, which aligns with industry standards, is designed for monitoring physical conditions that keep industrial machinery’s health in check. It is composed of a high-speed 32-bit STM32-based DAQ system, charge amplification, power supply, and sensors. These files contain figures, receipts, testing footage, photos, and results. 
